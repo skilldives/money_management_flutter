@@ -116,16 +116,12 @@ We understand that accidents happen. That's why we've integrated the option to s
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Flutter][Flutter.dev]][Flutter-url]
+* [![Firebase][Firebase.com]][Firebase-url]
+* [![Dart][Dart.dev]][Dart-url]
+* [![SQLite][SQLite.org]][SQLite-url]
+* [![Bloc][Bloc.dev]][Bloc-url]
+* [![Google Drive][GoogleDrive.com]][GoogleDrive-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -276,19 +272,15 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/skilldives/money_management_flutter/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shouvik-pradhan-b3b643131
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[Flutter.dev]: https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=white
+[Flutter-url]: https://flutter.dev/
+[Firebase.com]: https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=61DAFB
+[Firebase-url]: https://firebase.google.com/
+[Dart.dev]: https://img.shields.io/badge/Dart-35495E?style=for-the-badge&logo=dart&logoColor=4FC08D
+[Dart-url]: https://dart.dev/
+[SQLite.org]: https://img.shields.io/badge/SQLite-DD0031?style=for-the-badge&logo=sqlite&logoColor=white
+[SQLite-url]: https://www.sqlite.org/
+[Bloc.dev]: https://img.shields.io/badge/Bloc-4A4A55?style=for-the-badge&logo=bloc&logoColor=FF3E00
+[Bloc-url]: https://bloclibrary.dev/
+[GoogleDrive.com]: https://img.shields.io/badge/Google_Drive-FF2D20?style=for-the-badge&logo=googledrive&logoColor=white
+[GoogleDrive-url]: https://developers.google.com/drive/api/reference/rest/v3
