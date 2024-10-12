@@ -83,18 +83,32 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p float="left">
+  <img src="assets/images/1ss.png" width="200" />
+  <img src="assets/images/2ss.png" width="200" /> 
+  <img src="assets/images/3ss.png" width="200" />
+  <img src="assets/images/4ss.png" width="200" />
+  <img src="assets/images/5ss.png" width="200" />
+  <img src="assets/images/6ss.png" width="200" />
+  <img src="assets/images/7ss.png" width="200" />
+  <img src="assets/images/8ss.png" width="200" />
+</p>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Take control of your finances with the ultimate money management tool - Money Management app. Whether you're a meticulous planner or just starting to manage your money, this app is your go-to solution for tracking income, expenses, and budgets while gaining valuable insights into your financial health.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* Cloud Sync: Your financial data is precious. Safeguard it by storing all your information in your personal Google Drive. Rest easy knowing your data is secure and accessible, even if you switch devices or encounter unexpected incidents.
+* Comprehensive Tracking: Seamlessly record your income and expenses on-the-go. Categorize transactions to gain a clearer understanding of your spending patterns.
+* Smart Budgeting (Yet to be implemented)
+* Customizable Categories: Tailor income and expense categories to fit your unique financial lifestyle. Add, edit, or delete categories as needed.
+* Insightful Reports: Gain deep insights into your financial activities with visual reports. Analyze trends, identify areas for improvement, and celebrate milestones.
+* Date Range Analysis: View your financial data over different date ranges. Understand how your financial habits evolve and make proactive adjustments.
+* Intuitive User Interface: Navigating your finances has never been easier. Our user-friendly interface ensures you can effortlessly manage your money, regardless of your experience level.
+* Data Privacy: We understand the importance of your financial privacy. Your data is encrypted and stored securely, so you have full control over who can access it.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+## Stay Prepared with Cloud Storage:
 
-Use the `BLANK_README.md` to get started.
+We understand that accidents happen. That's why we've integrated the option to store your financial data in your own Google Drive. This extra layer of protection ensures that your data remains intact even in the face of unexpected events. No more worrying about lost data – it's all securely stored in your personal cloud space.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -262,7 +276,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/skilldives/money_management_flutter/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shouvik-pradhan-b3b643131
-[product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
