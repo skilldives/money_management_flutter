@@ -258,7 +258,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [stars-url]: https://github.com/skilldives/money_management_flutter/stargazers
 [issues-shield]: https://img.shields.io/github/issues/skilldives/money_management_flutter.svg?style=for-the-badge
 [issues-url]: https://github.com/skilldives/money_management_flutter/issues
-[license-shield]: https://img.shields.io/github/license/skilldives/money_management_flutter.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/skilldives/money_management_flutter/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shouvik-pradhan-b3b643131
