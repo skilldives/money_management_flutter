@@ -44,9 +44,9 @@
     <br />
     <a href="https://play.google.com/store/apps/details?id=in.skilldives.money_management&pcampaignid=web_share">View Demo</a>
     ·
-    <a href="https://github.com/skilldives/money_management_flutter/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/skilldives/money_management_flutter/issues/new?labels=bug&template=bug-report.md">Report Bug</a>
     ·
-    <a href="https://github.com/skilldives/money_management_flutter/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/skilldives/money_management_flutter/issues/new?labels=enhancement&template=feature-request.md">Request Feature</a>
   </p>
 </div>
 
