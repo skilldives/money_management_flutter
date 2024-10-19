@@ -36,7 +36,7 @@ class _AnalysisNestedListState extends State<AnalysisNestedList> {
         return Column(
           children: [
             ListTile(
-              tileColor: colorScheme.surfaceVariant,
+              tileColor: colorScheme.surfaceContainerHighest,
               title: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [

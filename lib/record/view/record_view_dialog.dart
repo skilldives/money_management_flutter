@@ -87,7 +87,7 @@ class _RecordViewDialogState extends State<RecordViewDialog> {
                     },
                     icon: Icon(
                       Icons.cancel_outlined,
-                      color: colorScheme.background,
+                      color: colorScheme.surface,
                       size: textTheme.headlineMedium?.fontSize,
                     ),
                   ),
@@ -112,7 +112,7 @@ class _RecordViewDialogState extends State<RecordViewDialog> {
                         },
                         icon: Icon(
                           Icons.delete_outlined,
-                          color: colorScheme.background,
+                          color: colorScheme.surface,
                           size: textTheme.headlineMedium?.fontSize,
                         ),
                       ),
@@ -137,7 +137,7 @@ class _RecordViewDialogState extends State<RecordViewDialog> {
                         },
                         icon: Icon(
                           Icons.edit_outlined,
-                          color: colorScheme.background,
+                          color: colorScheme.surface,
                           size: textTheme.headlineMedium?.fontSize,
                         ),
                       ),
@@ -151,7 +151,7 @@ class _RecordViewDialogState extends State<RecordViewDialog> {
               Text(
                 record.recordType.name.toUpperCase(),
                 style: TextStyle(
-                  color: colorScheme.background,
+                  color: colorScheme.surface,
                   fontSize: textTheme.titleMedium?.fontSize,
                   fontWeight: FontWeight.bold,
                 ),
@@ -162,7 +162,7 @@ class _RecordViewDialogState extends State<RecordViewDialog> {
               Text(
                 amount,
                 style: TextStyle(
-                  color: colorScheme.background,
+                  color: colorScheme.surface,
                   fontWeight: FontWeight.bold,
                 ),
               ),
@@ -174,7 +174,7 @@ class _RecordViewDialogState extends State<RecordViewDialog> {
                 child: Text(
                   CommonUtil.getRecordDialogDateTime(record.dateTime),
                   style: TextStyle(
-                    color: colorScheme.background,
+                    color: colorScheme.surface,
                     fontSize: textTheme.titleSmall?.fontSize,
                     fontWeight: FontWeight.bold,
                   ),
