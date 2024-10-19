@@ -165,13 +165,13 @@ This is an example of how to list things you need to use the software and how to
      flutterfire configure --project=your_project_name
      ```
      _Select all the platforms. This automatically registers your per-platform apps with Firebase and adds a lib/firebase_options.dart configuration file to your Flutter project._
-2. Install and run the FlutterFire CLI
+5. Clean all dependencies
    ```sh
-   cd money_management_flutter/
+   flutter clean
    ```
-3. Install NPM packages
+6. Resolve and download dependencies
    ```sh
-   npm install
+   flutter pub get
    ```
 4. Enter your API in `config.js`
    ```js
