@@ -141,26 +141,43 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone git@github.com:skilldives/money_management_flutter.git
    ```
-3. Install NPM packages
+2. Go to directory
    ```sh
-   npm install
+   cd money_management_flutter/
    ```
-4. Enter your API in `config.js`
+3. Create a project in Google Firebase
+   ```sh
+   a. https://console.firebase.google.com/
+   b. Add an app to get started --> Select Flutter
+   c. Prepare Your workspace as per the mentioned steps in the Firebase console website
+   ```
+4. Install and run the FlutterFire CLI
+     _From any directory, run this command:_
+     ```sh
+     dart pub global activate flutterfire_cli
+     ```
+     _Then, at the root of your Flutter project directory, run this command:_
+     ```sh
+     flutterfire configure --project=your_project_name
+     ```
+     _Select all the platforms. This automatically registers your per-platform apps with Firebase and adds a lib/firebase_options.dart configuration file to your Flutter project._
+5. Clean all dependencies
+   ```sh
+   flutter clean
+   ```
+6. Resolve and download dependencies
+   ```sh
+   flutter pub get
+   ```
+4. Run Either an Android or IOS device
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   flutter run
    ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
+   _Select device_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
