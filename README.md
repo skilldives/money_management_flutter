@@ -136,6 +136,9 @@ This is an example of how to list things you need to use the software and how to
    a. https://console.firebase.google.com/
    b. Add an app to get started --> Select Flutter
    c. Prepare Your workspace as per the mentioned steps in the Firebase console website
+   d. In Firebase Console from build/Authentication Enable Google Sign In Method and update your GoogleService-Info.plist file in ios/Runner
+   e. Copy 'REVERSED_CLIENT_ID' from 'GoogleService-Info.plist' value into 'CFBundleTypeRole' key Array of info.plist file.
+   f. Enable Google Drive API from https://console.cloud.google.com/apis/api/drive.googleapis.com
    ```
 4. Install and run the FlutterFire CLI
      _From any directory, run this command:_
