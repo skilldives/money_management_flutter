@@ -32,7 +32,7 @@ plugins {
 android {
     namespace = "in.skilldives.money_management"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    ndkVersion = "27.0.12077973"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
@@ -79,6 +79,6 @@ flutter {
     source '../..'
 }
 
-// dependencies {
-//     implementation 'com.android.support:multidex:1.0.3'
-// }
+dependencies {
+    implementation platform('com.google.firebase:firebase-bom:33.7.0')
+}

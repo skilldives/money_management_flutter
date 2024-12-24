@@ -19,6 +19,7 @@ class LoginService {
   GoogleSignInAccount? googleUser;
   Future<void> initialize() async {
     await Firebase.initializeApp(
+      name: 'expense',
       options: DefaultFirebaseOptions.currentPlatform,
     );
   }

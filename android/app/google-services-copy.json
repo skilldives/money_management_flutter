@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756040678038",
+    "project_id": "expense-53f8a",
+    "storage_bucket": "expense-53f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756040678038:android:cf09612c613e3c7fbc60b7",
+        "android_client_info": {
+          "package_name": "in.skilldives.money_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvDLBTLc60Hj3d8Sks9iXJAr6KM4jmgVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
